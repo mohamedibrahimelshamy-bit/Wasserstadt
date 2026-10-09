@@ -1,8 +1,10 @@
 # Site settings for GitHub Pages (Jekyll).
 title: Wasserstadt Spindlersfeld
 description: Useful information for the residents of Wasserstadt Spindlersfeld in Berlin-Köpenick.
-url: https://wasserstadtspindlersfeld.github.io
-baseurl: /home   # change to "" if the site ever moves to its own domain
+# Preview copy on Mohamed's fork: the same site, served from this repository's own GitHub Pages address.
+# (Only this gh-pages branch differs; the pull request keeps Tamas's /home address.)
+url: https://mohamedibrahimelshamy-bit.github.io
+baseurl: /Wasserstadt
 lang: en
 theme: null      # the design lives in _layouts, _includes and assets/css/site.css
 
